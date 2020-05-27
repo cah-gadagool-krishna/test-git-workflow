@@ -1,7 +1,7 @@
 package com.cah;
 
 /*
-TODO 
+Main method is here
  */
 public class Main {
 
